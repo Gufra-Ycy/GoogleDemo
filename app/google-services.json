@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "683388934749",
+    "firebase_url": "https://myproject-4d55e.firebaseio.com",
+    "project_id": "myproject-4d55e",
+    "storage_bucket": "myproject-4d55e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683388934749:android:054b0bc919367175",
+        "android_client_info": {
+          "package_name": "com.example.gpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683388934749-q9ab96f9bu4n4p4qjun1s2g3oc54qnfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZqglWbl12FecQONOlmdF4RwMD5H4FzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683388934749-q9ab96f9bu4n4p4qjun1s2g3oc54qnfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683388934749:android:46e63036d7426863",
+        "android_client_info": {
+          "package_name": "com.fljoy.ponow.gan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683388934749-q9ab96f9bu4n4p4qjun1s2g3oc54qnfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZqglWbl12FecQONOlmdF4RwMD5H4FzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683388934749-q9ab96f9bu4n4p4qjun1s2g3oc54qnfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683388934749:android:4fc15a81b57a0faf",
+        "android_client_info": {
+          "package_name": "com.quicksdk.koreasdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683388934749-q9ab96f9bu4n4p4qjun1s2g3oc54qnfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZqglWbl12FecQONOlmdF4RwMD5H4FzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683388934749-q9ab96f9bu4n4p4qjun1s2g3oc54qnfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
